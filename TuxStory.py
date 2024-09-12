@@ -93,3 +93,67 @@ import time
 time.sleep(20)
 
 print('Good morning!')
+
+import time
+time.sleep(1)
+
+word = 'Fun fact: Regular floppy disks can hold up to 1.44 MB!'
+
+print(word)
+
+import time
+time.sleep(2)
+
+Item = 'I want'
+item = 'coffee'
+
+print(Item, item)
+
+import time
+time.sleep(4)
+
+word = 'Also, did you know that Windows 95 is based off of MS-DOS?'
+
+print(word)
+
+import time
+time.sleep(2)
+
+word = 'I will now go to my computer'
+
+print(word)
+
+import time
+time.sleep(2)
+
+word = '*Windows 7 startup sound*'
+
+print(word)
+
+import time
+time.sleep(1)
+
+word = 'I will now make a program in python!'
+
+print(word)
+
+import time
+time.sleep(4)
+
+word = 'Python terminal: "Hello World'
+
+print(word)
+
+import time
+time.sleep(2)
+
+word = 'Windows 7 logoff sound'
+
+print(word)
+
+import time
+time.sleep(2)
+
+word = 'The end.'
+
+print(word)
